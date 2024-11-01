@@ -1,0 +1,62 @@
+
+
+.smsiInput
+{
+  display: block;
+  width: 267px;
+  margin-top: 15px;
+}
+
+
+.providerDiv
+{
+  display:none;
+}
+
+
+.smsiErrorLogWrapper table, .smsiHelpWrapperInner
+{
+  margin:0 auto;
+  margin-top:70px;
+}
+
+.smsiErrorLogWrapper table td
+{
+  text-align:center;
+}
+
+.helpHeadline
+{
+  font-size:16px;
+  font-weight: 700;
+  line-height: 0.1;
+}
+
+.helpSubHeadline
+{
+  font-size:14px;
+  font-weight: 700;
+  line-height: 0.1;
+}
+
+.helpOverHeadline
+{
+  font-size:18px;
+  font-weight: 700;
+}
+
+.smsiLine
+{
+  width:100%;
+  border-top:1px solid #000;
+}
+
+.smsiSubHelp
+{
+  margin-left:20px;
+}
+
+.smsiFailed, .smsiHold, .smsiProcessing, .smsiCompleted, .smsiRefunded, .smsiCancelled, .smsiPending
+{
+  cursor:pointer;
+}
